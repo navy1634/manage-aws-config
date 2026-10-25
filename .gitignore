@@ -1,0 +1,11 @@
+# folders
+.terraform
+
+# files
+*.zip
+
+# Terraform state and variable files
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
